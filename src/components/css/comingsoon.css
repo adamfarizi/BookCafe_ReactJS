@@ -1,0 +1,26 @@
+.Container_Comingsoon{
+ width: 100%;
+}
+
+.img_comingsoon{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+.h1_comingsoon{
+  font-family: Nunito Extrabold;
+  color: #393E46;
+
+  margin-top: 20px;
+  text-align: center;
+}
+
+.a_comingsoon{
+  color: #393E46;
+}
+
+.a_comingsoon:hover{
+  color: #6D9886;
+}

@@ -1,0 +1,16 @@
+@font-face {
+  font-family:Nunito ;
+  src: url(./../asset/font/Nunito-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family:Nunito Extrabold;
+  src: url(./../asset/font/Nunito-ExtraBold.ttf);
+}
+@font-face {
+  font-family:Nunito Semibold;
+  src: url(./../asset/font/Nunito-SemiBold.ttf);
+}
+@font-face {
+  font-family:Nunito Bold;
+  src: url(./../asset/font/Nunito-Bold.ttf);
+}

@@ -1,0 +1,157 @@
+.Container-Signin{
+  position: absolute;
+  width: 1280px;
+  height: 792px;
+  left: 0px;
+  top: 0px;
+
+  background: #FFFFFF;
+}
+
+.Background{
+  position: absolute;
+  width: 1518px;
+  height: 792px;
+  left: 0px;
+  top: 0px;
+  
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.Container-Form{
+  position: absolute;
+  width: 550px;
+  height: 792px;
+  left: 985px;
+  top: 0px;
+
+  background: rgba(247, 247, 247, 0.98);
+  box-shadow: 0px 0px 70px rgba(57, 62, 70, 0.5);
+  border-radius: 50px 0px 0px 50px;
+}
+
+.Icon{
+  position: absolute;
+  width: 83px;
+  height: 83px;
+  left: 250px;
+  top: 137px;
+}
+
+.Create{
+  position: absolute;
+  width: 319px;
+  height: 44px;
+  left: 140px;
+  top: 236px;
+
+  font-family: Nunito Extrabold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 44px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #393E46;
+
+}
+
+.fs1{
+  position: absolute;
+  width: 319px;
+  height: 50px;
+  left: 140px;
+  top: 296px;
+
+  font-family: Nunito;
+}
+
+.fs2{
+  position: absolute;
+  width: 319px;
+  height: 50px;
+  left: 140px;
+  top: 369px;  
+
+  font-family: Nunito;
+}
+
+.fs3{
+  position: absolute;
+  width: 319px;
+  height: 50px;
+  left: 140px;
+  top: 442px;
+  
+  font-family: Nunito;
+}
+
+.fs4{
+  position: absolute;
+  width: 300px;
+  height: 20px;
+  left: 140px;
+  top: 508px;
+  color: #818D97;
+
+  font-family: Nunito;
+}
+
+.btn-sign{
+  position: absolute;
+  width: 319px;
+  height: 50px;
+  left: 140px;
+  top: 555px;
+  padding: 10px;
+
+  background: #6D9886;
+  border-radius: 10px;
+  font-size: 20px;
+  line-height: 27px;
+  font-family: Nunito Semibold;
+}
+.btn-sign:hover{
+  background: #648c7b;
+}
+
+.login{
+  position: absolute;
+  width: 129px;
+  height: 20px;
+  left: 140px;
+  top: 621px;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #818D97;
+  
+}
+
+.login2{
+  position: absolute;
+  width: 80px;
+  height: 20px;
+  left: 260px;
+  top: 621px;
+  
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+  
+  color: #6D9886;
+}
+
+.login2:hover{
+  color: #648c7b;
+}

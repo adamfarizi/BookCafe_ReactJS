@@ -1,0 +1,116 @@
+.Container_Membership{
+  position: relative;
+  width: 1500px;
+  height: 500px;
+  top: 200px;
+
+}
+
+.book_membership{
+  position: absolute;
+  width: 600px;
+
+}
+
+.text_membership{
+  position: absolute;
+  width: 649px;
+  height: 335px;
+  left: 580px;
+  top: 160px;
+}
+
+.tittle_membership{
+  font-family: Nunito Extrabold;
+  font-size: 40px;
+  text-align: right;
+  
+  color: #393E46;
+}
+
+.subtittle_membership{
+  font-family: Nunito;
+  font-size: 30px;
+  text-align: right;
+  margin-bottom: 50px;
+  
+  color: #393E46;
+}
+
+.subtittle2_membership{
+  font-family: 'Nunito';
+  font-size: 15px;
+  
+  text-align: right;
+  
+  color: #818D97;
+}
+
+.button_membership{
+  display: flex;
+  align-items: center;
+  
+}
+
+.button_membership ul li{
+  list-style: none;
+  display: inline-flex;
+
+}
+
+.btn1-membership{
+  width: 300px;
+  height: 60px;
+  margin-right: 10px;
+  
+  background: #6D9886;
+  border: 2px solid #6D9886;
+  border-radius: 20px;
+  font-family: Nunito bold;
+  font-size: 20px;
+  padding-top: 15px;
+}
+.btn1-membership:hover{
+  background: #638878;
+  border: 2px solid #6D9886;
+}
+
+.btn2-membership{
+  width: 300px;
+  height: 60px;
+
+  color: #6D9886;
+  background: white;
+  border: 2px solid #6D9886;
+  border-radius: 20px;
+  font-family: Nunito bold;
+  font-size: 20px;
+  padding-top: 15px;
+}
+.btn2-membership:hover{
+  color: #638878;
+  background: white;
+  border: 2px solid #638878;
+}
+
+@media only screen and (max-width:1400px) {
+  .Container_Membership{
+    position: relative;
+    top: 700px;
+  }
+}
+@media only screen and (max-width:1200px) {
+  .Container_Membership{
+    top: 1000px;
+  }
+}
+
+@media only screen and (max-width:770px) {
+  .Container_Membership{
+    top: 2500px;
+    margin-left: -500px;
+  }
+  .book_membership{
+    display: none;
+  }
+}

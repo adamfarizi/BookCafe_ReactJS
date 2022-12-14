@@ -1,0 +1,164 @@
+.Container-Login{
+  position: absolute;
+  width: 1280px;
+  height: 792px;
+  left: 0px;
+  top: 0px;
+
+  background: #FFFFFF;
+}
+
+.Background{
+  position: absolute;
+  width: 1518px;
+  height: 792px;
+  left: 0px;
+  top: 0px;
+  
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.Container-Form{
+  position: absolute;
+  width: 550px;
+  height: 792px;
+  left: 985px;
+  top: 0px;
+
+  background: rgba(247, 247, 247, 0.98);
+  box-shadow: 0px 0px 70px rgba(57, 62, 70, 0.5);
+  border-radius: 50px 0px 0px 50px;
+}
+
+.Icon{
+  position: absolute;
+  width: 83px;
+  height: 83px;
+  left: 250px;
+  top: 137px;
+}
+
+.Hello{
+  position: absolute;
+  width: 319px;
+  height: 55px;
+  left: 140px;
+  top: 236px;
+
+  font-family:Nunito Extrabold ;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 55px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #393E46;
+}
+
+.Wellcome{
+  position: absolute;
+  width: 319px;
+  height: 27px;
+  left: 140px;
+  top: 291px;
+
+  font-family:Nunito ;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #818D97;
+}
+
+.fl1{
+  position: absolute;
+  width: 319px;
+  height: 50px;
+  left: 140px;
+  top: 345px;
+  
+  font-family:Nunito ;
+}
+
+.fl2{
+  position: absolute;
+  width: 319px;
+  height: 50px;
+  left: 140px;
+  top: 418px;
+
+  font-family:Nunito ;
+}
+
+.fl3 {
+  position: absolute;
+  width: 130px;
+  height: 20px;
+  left: 140px;
+  top: 484px;
+
+  color: #818D97;
+  font-family:Nunito ;
+}
+
+.btn-login{
+  position: absolute;
+  width: 319px;
+  height: 50px;
+  left: 140px;
+  top: 531px;
+  padding: 10px;
+  
+  background: #6D9886;
+  border-radius: 10px;
+  font-size: 20px;
+  line-height: 27px;
+  font-family:Nunito Semibold;
+  color: #FFFFFF;
+}
+
+.btn-login:hover{
+  background: #648c7b;
+}
+
+.signin{
+  position: absolute;
+  width: 180px;
+  height: 20px;
+  left: 140px;
+  top: 597px;
+
+  font-family:Nunito ;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #818D97;
+}
+.signin2{
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  left: 320px;
+  top: 597px;
+
+  font-family:Nunito ;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #6D9886;
+}
+
+
+.signin2:hover{
+  color: #648c7b;
+}
